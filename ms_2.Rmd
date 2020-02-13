@@ -1,0 +1,11 @@
+---
+title: "Milestone 2"
+author: "Amy Zhou"
+date: "2/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
